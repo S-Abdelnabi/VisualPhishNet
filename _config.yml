@@ -27,7 +27,7 @@ title: "WhiteNet: Zero-Day Phishing Website Detection by Visual Whitelists "
 markdown: kramdown
 theme: jekyll-theme-cayman
 #description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
-url: "https://s-abdelnabi.github.io/" # the subpath of your site, e.g. /blog
+url: "https://s-abdelnabi.github.io" # the subpath of your site, e.g. /blog
 baseurl: "/WhiteNet" # the subpath of your site, e.g. /blog
 show_downloads: true
 show_tagline: true
@@ -38,6 +38,7 @@ owner:
     email: sahar.abdelnabi@cispa.saarland
 author:
     name: Sahar Abdelnabi
+    url: https://scholar.google.com/citations?user=QEiYbDYAAAAJ&hl=en
 
 paper_url: "https://arxiv.org/abs/1909.00300" 
 datasetlink: "https://s-abdelnabi.github.io/WhiteNet/"
