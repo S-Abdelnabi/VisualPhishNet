@@ -3,7 +3,7 @@
 {: refdef}
 
 {:refdef: style="text-align: center;"}
-![teaser](images/sample.gif){:width="85%"}
+![teaser](images/sample2.gif){:width="85%"}
 {: refdef}
 
 ## Abstract
