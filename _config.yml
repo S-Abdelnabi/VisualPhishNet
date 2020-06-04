@@ -26,9 +26,7 @@
 title: "WhiteNet: Zero-Day Phishing Website Detection by Visual Whitelists " 
 markdown: kramdown
 theme: jekyll-theme-cayman
-#description: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing. 
-#tagline: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing 
-#description: ""
+description: "[Sahar Abdelnabi](https://scholar.google.com/citations?user=QEiYbDYAAAAJ&hl=en), Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
 url: "https://s-abdelnabi.github.io/" # the subpath of your site, e.g. /blog
 baseurl: "/WhiteNet" # the subpath of your site, e.g. /blog
 show_downloads: true
