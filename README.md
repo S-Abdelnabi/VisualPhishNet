@@ -1,8 +1,6 @@
-## WhiteNet
+## Abstract
 
-You can use the [editor on GitHub](https://github.com/S-Abdelnabi/WhiteNet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Phishing websites are still a major threat in today's Internet ecosystem. Despite numerous previous efforts, similarity-based whitelisting methods do not offer sufficient protection - in particular against visually new phishing pages. This paper contributes WhiteNet, a new similarity-based phishing detection framework, based on a triplet Convolutional Neural Network (CNN). WhiteNet learns pro-files for websites in order to detect phishing websites by a "visual whitelist" that can generalize to pages with new visual appearances. We furthermore present WhitePhish, the largest dataset to date that facilitates visual phishing detection in an ecologically valid manner. We show that our method outperforms previous visual similarity phishing detection approaches by a large margin while being robust against a range of evasion attacks.
 
 ### Markdown
 
