@@ -23,10 +23,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "WhiteNet " 
+title: "WhiteNet: Zero-Day Phishing Website Detection by Visual Whitelists " 
 markdown: kramdown
 theme: jekyll-theme-cayman
-description: "Zero-Day Phishing Website Detection by Visual Whitelists"
 #description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
 url: "https://s-abdelnabi.github.io/" # the subpath of your site, e.g. /blog
 baseurl: "/WhiteNet" # the subpath of your site, e.g. /blog
