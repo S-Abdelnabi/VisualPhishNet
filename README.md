@@ -14,3 +14,5 @@ The dataset has the following screenshots:
 * New crawled phishing pages collected in Mar-April 2020
 * Benign non-whitelisted websites
 * Other test subsets (e.g. different browsers)
+
+To access the dataset for research purposes, please write an email to: sahar.abdelnabi@cispa.saarland
