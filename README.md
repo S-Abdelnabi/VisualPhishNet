@@ -15,4 +15,4 @@ The dataset has the following screenshots:
 * Benign non-whitelisted websites
 * Other test subsets (e.g. different browsers)
 
-To access the dataset for research purposes, please write an email to: sahar.abdelnabi@cispa.saarland
+To access the dataset, please write an email to: sahar.abdelnabi@cispa.saarland
