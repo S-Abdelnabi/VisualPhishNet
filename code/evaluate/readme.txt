@@ -1,1 +1,5 @@
-Files for evaluation (for the original and newly crawled phishing data) and applying attacks on the phishing test set.
+Files for evaluation:
+  - for the original dataset phishing pages 
+  - for the newly crawled phishing data
+  - Compute off-the-shelf-cnns embeddigs
+  - and applying perturbation attacks on the phishing test set.
