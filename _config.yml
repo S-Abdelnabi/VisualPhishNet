@@ -1,5 +1,5 @@
 #theme: jekyll-theme-cayman
-#title: "WhiteNet: Zero-Day Phishing Website Detection by Visual Whitelists"
+#title: "VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity"
 #description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
 #show_downloads: true
 
@@ -23,7 +23,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "WhiteNet: Zero-Day Phishing Website Detection by Visual Whitelists " 
+title: "VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity " 
 markdown: kramdown
 theme: jekyll-theme-cayman
 #description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
