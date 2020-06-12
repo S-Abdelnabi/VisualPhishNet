@@ -27,8 +27,8 @@ title: "VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity
 markdown: kramdown
 theme: jekyll-theme-cayman
 #description: "Sahar Abdelnabi, Katharina Krombholoz and Mario Fritz <br> CISPA Helmholtz Center for Information Security"
-url: "https://s-abdelnabi.github.io/WhiteNet" # the subpath of your site, e.g. /blog
-baseurl: "/WhiteNet" # the subpath of your site, e.g. /blog
+url: "https://s-abdelnabi.github.io/VisualPhishNet" # the subpath of your site, e.g. /blog
+baseurl: "/VisualPhishNet" # the subpath of your site, e.g. /blog
 show_downloads: true
 show_tagline: true
 auth_color: "color:#FFFFFF"
@@ -41,7 +41,7 @@ author:
     url: https://scholar.google.com/citations?user=QEiYbDYAAAAJ&hl=en
 
 paper_url: "https://arxiv.org/abs/1909.00300" 
-datasetlink: "https://s-abdelnabi.github.io/WhiteNet/"
+datasetlink: "https://s-abdelnabi.github.io/VisualPhishNet/"
 #plugins:
 #    - jekyll-include-cache
 
