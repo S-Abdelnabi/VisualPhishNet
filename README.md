@@ -16,3 +16,12 @@ The dataset has the following screenshots:
 * Other test subsets (e.g. different browsers)
 
 To access the dataset for research purposes, please write an email to: sahar.abdelnabi@cispa.saarland
+
+## BibTex
+
+@inproceedings{abdelnabi20ccs,
+title = {VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity},
+author = {Sahar Abdelnabi and Katharina Krombholz and Mario Fritz},
+year = {2020},
+booktitle = {ACM Conference on Computer and Communications Security (CCS) }
+}
