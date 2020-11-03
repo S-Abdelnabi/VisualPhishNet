@@ -1,4 +1,4 @@
-Files for evaluation:
+Files for evaluation, needs to be adjusted according to the dataset path, model file names and precomputed embeddings files names:
   - Evaluate.ipynb: loads pretrained model and precomputed embeddings and compute the matching of the original dataset phishing pages. Can be used to compute the matching of the attacks by loading the computed perturbed features of the test set.
   
   - Evaluate_new_phishing.ipynb: loads pretrained model and precomputed embeddings and compute the matching of the newly crawled phishing data.
