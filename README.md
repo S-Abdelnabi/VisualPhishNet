@@ -18,6 +18,7 @@ The dataset has the following screenshots:
 To access the dataset for research purposes, please write an email to: sahar.abdelnabi@cispa.saarland
 
 ## BibTex
+If you find our code or dataset helpful, please cite our paper: 
 ~~~~~~~~~~~~~~~~
 @inproceedings{abdelnabi20ccs,
 title = {VisualPhishNet: Zero-Day Phishing Website Detection by Visual Similarity},
